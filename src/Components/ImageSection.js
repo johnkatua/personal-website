@@ -1,5 +1,5 @@
 import React from 'react';
-import image2 from '../img/image2.jpeg';
+import image2 from '../img/img8.jpg';
 
 function ImageSection() {
   return (

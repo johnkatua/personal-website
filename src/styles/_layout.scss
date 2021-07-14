@@ -13,8 +13,9 @@
       width: 50%;
     }
 
-    @media screen and (max-width: 316px) {
-      width: 40%;
+    @media screen and (max-width: 280px) {
+      width: 60%;
+      font-size: 1.6rem;
     }
   }
 
